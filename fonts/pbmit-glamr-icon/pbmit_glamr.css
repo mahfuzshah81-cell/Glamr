@@ -1,0 +1,162 @@
+@font-face {
+    font-family: "pbmit_glamr";
+    src: url("pbmit_glamr7180.woff2?4f736fd8fdd9eaf96f792051ea206285") format("woff2"),
+url("pbmit_glamr7180.woff?4f736fd8fdd9eaf96f792051ea206285") format("woff"),
+url("pbmit_glamr7180.eot?4f736fd8fdd9eaf96f792051ea206285#iefix") format("embedded-opentype"),
+url("pbmit_glamr7180.ttf?4f736fd8fdd9eaf96f792051ea206285") format("truetype"),
+url("pbmit_glamr7180.svg?4f736fd8fdd9eaf96f792051ea206285#pbmit_glamr") format("svg")
+}
+
+i[class^="pbmit_glamr-"]:before, i[class*=" pbmit-glamr-icon-"]:before {
+    font-family: pbmit_glamr !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-glamr-icon-hair-salon:before {
+    content: "\f101";
+}
+.pbmit-glamr-icon-shampoo:before {
+    content: "\f102";
+}
+.pbmit-glamr-icon-hair-washing:before {
+    content: "\f103";
+}
+.pbmit-glamr-icon-skin-care:before {
+    content: "\f104";
+}
+.pbmit-glamr-icon-hair-straightener:before {
+    content: "\f105";
+}
+.pbmit-glamr-icon-hair:before {
+    content: "\f106";
+}
+.pbmit-glamr-icon-cosmetics:before {
+    content: "\f107";
+}
+.pbmit-glamr-icon-stylist:before {
+    content: "\f108";
+}
+.pbmit-glamr-icon-hair-curler:before {
+    content: "\f109";
+}
+.pbmit-glamr-icon-hair-dryer:before {
+    content: "\f10a";
+}
+.pbmit-glamr-icon-hair-wash-sink:before {
+    content: "\f10b";
+}
+.pbmit-glamr-icon-barber-chair:before {
+    content: "\f10c";
+}
+.pbmit-glamr-icon-tweezers:before {
+    content: "\f10d";
+}
+.pbmit-glamr-icon-trimmer:before {
+    content: "\f10e";
+}
+.pbmit-glamr-icon-hair-spray:before {
+    content: "\f10f";
+}
+.pbmit-glamr-icon-mirror:before {
+    content: "\f110";
+}
+.pbmit-glamr-icon-water-spray:before {
+    content: "\f111";
+}
+.pbmit-glamr-icon-towel:before {
+    content: "\f112";
+}
+.pbmit-glamr-icon-appointment:before {
+    content: "\f113";
+}
+.pbmit-glamr-icon-comb:before {
+    content: "\f114";
+}
+.pbmit-glamr-icon-hair-brush:before {
+    content: "\f115";
+}
+.pbmit-glamr-icon-cream:before {
+    content: "\f116";
+}
+.pbmit-glamr-icon-apron:before {
+    content: "\f117";
+}
+.pbmit-glamr-icon-foam:before {
+    content: "\f118";
+}
+.pbmit-glamr-icon-hand-mirror:before {
+    content: "\f119";
+}
+.pbmit-glamr-icon-hair-gel:before {
+    content: "\f11a";
+}
+.pbmit-glamr-icon-right:before {
+    content: "\f11b";
+}
+.pbmit-glamr-icon-email:before {
+    content: "\f11c";
+}
+.pbmit-glamr-icon-location-point:before {
+    content: "\f11d";
+}
+.pbmit-glamr-icon-call:before {
+    content: "\f11e";
+}
+.pbmit-glamr-icon-scissor:before {
+    content: "\f11f";
+}
+.pbmit-glamr-icon-hair-tools:before {
+    content: "\f120";
+}
+.pbmit-glamr-icon-shaving-cream:before {
+    content: "\f121";
+}
+.pbmit-glamr-icon-hair-dye:before {
+    content: "\f122";
+}
+.pbmit-glamr-icon-check:before {
+    content: "\f123";
+}
+.pbmit-glamr-icon-salon:before {
+    content: "\f124";
+}
+.pbmit-glamr-icon-hair-cutting:before {
+    content: "\f125";
+}
+.pbmit-glamr-icon-hair-dye-1:before {
+    content: "\f126";
+}
+.pbmit-glamr-icon-hair-styling:before {
+    content: "\f127";
+}
+.pbmit-glamr-icon-curler:before {
+    content: "\f128";
+}
+.pbmit-glamr-icon-hair-straightener-1:before {
+    content: "\f129";
+}
+.pbmit-glamr-icon-coloring:before {
+    content: "\f12a";
+}
+.pbmit-glamr-icon-hair-washing-1:before {
+    content: "\f12b";
+}
+.pbmit-glamr-icon-hair-dye-2:before {
+    content: "\f12c";
+}
+.pbmit-glamr-icon-hair-treatment:before {
+    content: "\f12d";
+}
+.pbmit-glamr-icon-hair-spray-1:before {
+    content: "\f12e";
+}
+.pbmit-glamr-icon-hair-dye-brush:before {
+    content: "\f12f";
+}
+
